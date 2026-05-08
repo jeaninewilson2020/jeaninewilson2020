@@ -1,4 +1,4 @@
-# Hi, I'm Jeanine Wilson 👋
+# Hi, I'm Jeanine Wilson 
 
 ## AI Product Manager | Web + AI
 
@@ -8,7 +8,7 @@ products that actually solve real user problems.
 
 ---
 
-### 🧠 What I'm Working On
+### What I'm Working On
 
 - Building and documenting **AI-powered workflows and tools** as part of my product portfolio
 - Applying **Agile and product thinking frameworks** to AI feature development
@@ -16,7 +16,7 @@ products that actually solve real user problems.
 
 ---
 
-### 🎓 Certifications & Learning
+### Certifications & Learning
 
 - IBM AI Product Manager Professional Certificate
 - IBM Agile Development and Scrum
@@ -24,22 +24,22 @@ products that actually solve real user problems.
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 `AI Product Management` `Agile / Scrum` `User Story Mapping` `Stakeholder Management`  
 `Prompt Engineering` `LLM Workflows` `Web Project Delivery` `Roadmapping`
 
 ---
 
-### 📂 Portfolio
+### Portfolio
 
 Explore my AI PM portfolio — including workflow documentation, product artifacts, 
 and tool builds:
 
-👉 [dub.sh/Jeanine-GitHub](https://dub.sh/Jeanine-GitHub)
+[dub.sh/Jeanine-GitHub](https://dub.sh/Jeanine-GitHub)
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeanine-wilson/)
