@@ -12,7 +12,7 @@ products that actually solve real user problems.
 
 - Building and documenting **AI-powered workflows and tools** as part of my product portfolio
 - Applying **Agile and product thinking frameworks** to AI feature development
-- Exploring how AI can drive measurable outcomes — not just cool demos
+- Exploring how AI can drive measurable outcomes, not just cool demos
 
 ---
 
@@ -33,7 +33,7 @@ products that actually solve real user problems.
 
 ### Portfolio
 
-Explore my AI PM portfolio — including workflow documentation, product artifacts, 
+Explore my AI PM portfolio, including workflow documentation, product artifacts, 
 and tool builds:
 
 [dub.sh/Jeanine-GitHub](https://dub.sh/Jeanine-GitHub)
